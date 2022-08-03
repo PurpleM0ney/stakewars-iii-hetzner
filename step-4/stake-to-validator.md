@@ -1,6 +1,6 @@
 # Add stake to validator
 
-Before you execute a command, you must go to the [project’s Discord](https://wallet.shardnet.near.org/) and request tokens in the #stake-wars-tokens_delegation channel
+Before you execute a command, you must go to the [project’s Discord](https://discord.gg/UN835A6GBA) and request tokens in the [#stake-wars-tokens_delegation channel](https://discord.gg/UN835A6GBA)
 
 ```
 # in cli pod run 
