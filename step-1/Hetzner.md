@@ -15,7 +15,7 @@ After boot up, you have linux up and ready.
 
 ### Setup Kubernetes
 
-This is raw install notes. Other setup such as dns might be required as well.
+Other setup such as dns might be required as well.
 
 ```
 passwd
