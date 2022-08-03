@@ -1,19 +1,16 @@
-# Hetzner
+# Installation on servers from Hetzner
+
+### Pricing
+Cheapest possible variant for Stake-Wars cost € 34.00 / month for new server (AX41-NVMe) — 6 cores / 12 threads @ 3.6 GHz, 64 GB DDR4 RAM, 2 x 512 GB NVMe SSD
 
 ### Buy server
 
 Navigate to [https://hetzner.cloud/](https://hetzner.cloud/)
 
-I recommend Dedicated AX-Line
-
 ![](<../assets/image.png>)
+I will be launching on serveral AX101 servers — AMD Ryzen™ 9 5950X , 128 GB DDR4 ECC, 2 x 3.84 TB NVME, unlimitted traffic @ 111.86 EUR (including VAT)
 
-I do run serveral AX101 servers - AMD Ryzen™ 9 5950X , 128 GB DDR4 ECC, 2 x 3.84 TB NVME, unlimitted traffic @ 111.86 EUR (including VAT)
-
-222
-
-In rescue mode format drives to be in sw raid.
-
+![](<../assets/image1.png>)
 After boot up, you have linux up and ready.
 
 ### Setup Kubernetes
